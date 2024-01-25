@@ -1,0 +1,59 @@
+.app {
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:rgb(7, 7, 7);
+    margin-top: 100px;
+    border-radius: 30px;
+  }
+  
+  .form label {
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+  }
+  
+  .form input[type="text"],
+  .form input[type="password"] {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+  }
+  
+  .form .err {
+    color: red;
+    margin-top: 5px;
+  }
+  
+  .form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .form button:hover {
+    background-color: #0056b3;
+  }
+  .Registration{
+    margin-top: 20px;
+    padding: 5px;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 20px;
+
+
+  }
+  .Registration p{
+    color: green;
+    font-weight:bold;
+  }
+  
